@@ -1,5 +1,5 @@
 /*
-Package config is the internal configuration used for Efs2. This configuration is for the internal application execution. It exists to pave the way for non-cli instances of Efs2 in the future.
+Package config is the internal configuration.
 */
 package config
 
