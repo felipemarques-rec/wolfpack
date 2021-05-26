@@ -29,12 +29,12 @@ Wolfpack offers several additional options, such as parallel execution and vario
 ```console
   -v, --verbose   Enable verbose output
   -q, --quiet     Silence output
-  -u, --url=      Wordpress URL
-  -k, --key=      Specify an key generate by woocommerce
   -p, --parallel  Execute tasks across multiple hosts in parallel
-      --path      Path where the csv file is to be updated 
   -d, --dryrun    Print tasks to be executed without actually executing any tasks
-  -s, --secret=   Secret generate by woocommerce
+      --url=      Ask for a Wordpress URL
+      --key=      Specify an key generate by woocommerce
+      --path      Ask for a Path where the csv file is to be updated 
+      --secret=   Ask for a Secret generate by woocommerce to use for woocommerce authentication
 ```
 
 ## Call to Action
